@@ -1,0 +1,20 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+/build
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+.idea
+*.iml
+target
+
+*.*~
